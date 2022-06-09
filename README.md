@@ -8,5 +8,5 @@
 * CSS
 
 ## Contributors:
-* Forked from [ibm-developer-skills-network/vftvk-Simple-Interest-Calculator] and manipulated by Shakofa Mahmody
+* Forked from [ibm-developer-skills-network/vftvk-Simple-Interest-Calculator](ibm-developer-skills-network/vftvk-Simple-Interest-Calculator) and manipulated by Shakofa Mahmody
 
